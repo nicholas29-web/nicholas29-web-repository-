@@ -1,0 +1,5 @@
+coreano-sito/
+│
+├── index.html      ← la pagina principale
+├── style.css       ← il design del sito
+└── script.js       ← logica di quiz e flashcard
